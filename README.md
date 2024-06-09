@@ -25,3 +25,5 @@ go-kafka-mongo
 ├── docker-compose.yml
 └── go.mod
 
+
+http://localhost:8080/books

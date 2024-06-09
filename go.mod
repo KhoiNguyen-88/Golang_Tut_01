@@ -1,6 +1,6 @@
 module Golang_Tut_01
 
-go 1.23
+go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.10.0
